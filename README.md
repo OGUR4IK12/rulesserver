@@ -1,20 +1,45 @@
 <!DOCTYPE html>
-<html lang="ru">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Правила Emergency Hamburg</title>
-  </head>
-  <body>
-    <h1>Правила Emergency Hamburg</h1>
-    <ul>
-      <li>1. Не использовать читы, баги или эксплойты.</li>
-      <li>2. Соблюдать ролевую игру (RP) — играй по роли.</li>
-      <li>3. Уважай других игроков и администрацию.</li>
-      <li>4. Запрещены RDM, VDM и DM.</li>
-      <li>5. Нарушения караются киком или баном.</li>
-      <li>6. Не спамить и не материться в чате.</li>
-    </ul>
-    <p>Сервер Discord: <a href="https://discord.gg/yourserverlink" target="_blank">нажмите сюда</a></p>
-    <p style="font-size: small; color: gray;">© 2025 Emergency Hamburg</p>
-  </body>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Правила сервера</title>
+  <style>
+    body {
+      background: linear-gradient(to top, #ffc, #fea);
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+    h1 {
+      margin-top: 30px;
+      color: #fff;
+      background-color: #ff4444;
+      padding: 10px;
+      border-radius: 10px;
+    }
+    .rules-grid {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+      margin: 40px;
+    }
+    .rule {
+      background-color: #fff1e6;
+      border-radius: 10px;
+      padding: 20px;
+      width: 200px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    }
+  </style>
+</head>
+<body>
+  <h1>ПРАВИЛА СЕРВЕРА</h1>
+  <div class="rules-grid">
+    <div class="rule">1. Повага, антибулінг та особистий простір</div>
+    <div class="rule">2. ПДР</div>
+    <div class="rule">3. Використання читів та багів</div>
+    <!-- Добавьте другие пункты правил по аналогии -->
+  </div>
+</body>
 </html>
